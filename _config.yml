@@ -51,4 +51,4 @@ exclude:
   - LICENSE
   - README.md
 
-theme: jekyl-serif-theme
+#theme: jekyl-serif-theme
