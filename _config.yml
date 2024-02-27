@@ -1,4 +1,4 @@
-title: 'Srini's Dashbaord'
+title: Srini Dashbaord
 baseurl: '/dashboard'
 permalink: pretty
 
@@ -50,3 +50,5 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
+
+theme: jekyl-serif-theme
